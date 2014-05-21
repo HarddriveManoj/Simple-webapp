@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.elance.Simple_webapp;
+package com.Simple_webapp;
 
 import java.util.Date;
 
